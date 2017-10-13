@@ -1,0 +1,284 @@
+{
+   "contents" : [
+      {
+         "abstract" : null,
+         "author" : null,
+         "id" : "TMO-battle_opdracht_3",
+         "series" : null,
+         "socialComment" : null,
+         "socialImageUrl" : null,
+         "socialUrl" : null,
+         "tags" : null,
+         "title" : "",
+         "titleHtml" : "TMO-battle opdracht 3",
+         "type" : "article"
+      }
+   ],
+   "id" : "urn:uuid:quark:html5:TMO-battle_opdracht_3:publication",
+   "media" : null,
+   "publishedDate" : "2017-10-12T14:11:22Z",
+   "subtitle" : null,
+   "title" : "TMO-battle opdracht 3",
+   "variants" : [
+      {
+         "fontSize" : "16",
+         "height" : "1280",
+         "orientation" : "portrait",
+         "pages" : [
+            {
+               "contents" : [
+                  {
+                     "href" : "#TMO-battle_opdracht_3",
+                     "pageRef" : "1"
+                  }
+               ],
+               "id" : "1",
+               "pagePosition" : "RIGHTOFSPINE",
+               "preview1024" : "article/Browser_(V)/assets/portrait1_preview.jpeg",
+               "properties" : {
+                  "height" : "1280",
+                  "width" : "800"
+               },
+               "spreadId" : "1",
+               "thumbnail" : "article/Browser_(V)/assets/portrait1_preview.jpeg",
+               "url" : "article/Browser_(V)/portrait1.html"
+            },
+            {
+               "contents" : [
+                  {
+                     "href" : "#TMO-battle_opdracht_3",
+                     "pageRef" : "2"
+                  }
+               ],
+               "id" : "2",
+               "pagePosition" : "LEFTOFSPINE",
+               "preview1024" : "article/Browser_(V)/assets/portrait2_preview.jpeg",
+               "properties" : {
+                  "height" : "1280",
+                  "width" : "800"
+               },
+               "spreadId" : "2",
+               "thumbnail" : "article/Browser_(V)/assets/portrait2_preview.jpeg",
+               "url" : "article/Browser_(V)/portrait2.html"
+            },
+            {
+               "contents" : [
+                  {
+                     "href" : "#TMO-battle_opdracht_3",
+                     "pageRef" : "3"
+                  }
+               ],
+               "id" : "3",
+               "pagePosition" : "RIGHTOFSPINE",
+               "preview1024" : "article/Browser_(V)/assets/portrait3_preview.jpeg",
+               "properties" : {
+                  "height" : "1280",
+                  "width" : "800"
+               },
+               "spreadId" : "2",
+               "thumbnail" : "article/Browser_(V)/assets/portrait3_preview.jpeg",
+               "url" : "article/Browser_(V)/portrait3.html"
+            },
+            {
+               "contents" : [
+                  {
+                     "href" : "#TMO-battle_opdracht_3",
+                     "pageRef" : "4"
+                  }
+               ],
+               "id" : "4",
+               "pagePosition" : "LEFTOFSPINE",
+               "preview1024" : "article/Browser_(V)/assets/portrait4_preview.jpeg",
+               "properties" : {
+                  "height" : "1280",
+                  "width" : "800"
+               },
+               "spreadId" : "3",
+               "thumbnail" : "article/Browser_(V)/assets/portrait4_preview.jpeg",
+               "url" : "article/Browser_(V)/portrait4.html"
+            },
+            {
+               "contents" : [
+                  {
+                     "href" : "#TMO-battle_opdracht_3",
+                     "pageRef" : "5"
+                  }
+               ],
+               "id" : "5",
+               "pagePosition" : "RIGHTOFSPINE",
+               "preview1024" : "article/Browser_(V)/assets/portrait5_preview.jpeg",
+               "properties" : {
+                  "height" : "1280",
+                  "width" : "800"
+               },
+               "spreadId" : "3",
+               "thumbnail" : "article/Browser_(V)/assets/portrait5_preview.jpeg",
+               "url" : "article/Browser_(V)/portrait5.html"
+            },
+            {
+               "contents" : [
+                  {
+                     "href" : "#TMO-battle_opdracht_3",
+                     "pageRef" : "6"
+                  }
+               ],
+               "id" : "6",
+               "pagePosition" : "LEFTOFSPINE",
+               "preview1024" : "article/Browser_(V)/assets/portrait6_preview.jpeg",
+               "properties" : {
+                  "height" : "1280",
+                  "width" : "800"
+               },
+               "spreadId" : "4",
+               "thumbnail" : "article/Browser_(V)/assets/portrait6_preview.jpeg",
+               "url" : "article/Browser_(V)/portrait6.html"
+            },
+            {
+               "contents" : [
+                  {
+                     "href" : "#TMO-battle_opdracht_3",
+                     "pageRef" : "7"
+                  }
+               ],
+               "id" : "7",
+               "pagePosition" : "RIGHTOFSPINE",
+               "preview1024" : "article/Browser_(V)/assets/portrait7_preview.jpeg",
+               "properties" : {
+                  "height" : "1280",
+                  "width" : "800"
+               },
+               "spreadId" : "4",
+               "thumbnail" : "article/Browser_(V)/assets/portrait7_preview.jpeg",
+               "url" : "article/Browser_(V)/portrait7.html"
+            },
+            {
+               "contents" : [
+                  {
+                     "href" : "#TMO-battle_opdracht_3",
+                     "pageRef" : "8"
+                  }
+               ],
+               "id" : "8",
+               "pagePosition" : "LEFTOFSPINE",
+               "preview1024" : "article/Browser_(V)/assets/portrait8_preview.jpeg",
+               "properties" : {
+                  "height" : "1280",
+                  "width" : "800"
+               },
+               "spreadId" : "5",
+               "thumbnail" : "article/Browser_(V)/assets/portrait8_preview.jpeg",
+               "url" : "article/Browser_(V)/portrait8.html"
+            },
+            {
+               "contents" : [
+                  {
+                     "href" : "#TMO-battle_opdracht_3",
+                     "pageRef" : "9"
+                  }
+               ],
+               "id" : "9",
+               "pagePosition" : "RIGHTOFSPINE",
+               "preview1024" : "article/Browser_(V)/assets/portrait9_preview.jpeg",
+               "properties" : {
+                  "height" : "1280",
+                  "width" : "800"
+               },
+               "spreadId" : "5",
+               "thumbnail" : "article/Browser_(V)/assets/portrait9_preview.jpeg",
+               "url" : "article/Browser_(V)/portrait9.html"
+            },
+            {
+               "contents" : [
+                  {
+                     "href" : "#TMO-battle_opdracht_3",
+                     "pageRef" : "10"
+                  }
+               ],
+               "id" : "10",
+               "pagePosition" : "LEFTOFSPINE",
+               "preview1024" : "article/Browser_(V)/assets/portrait10_preview.jpeg",
+               "properties" : {
+                  "height" : "1280",
+                  "width" : "800"
+               },
+               "spreadId" : "6",
+               "thumbnail" : "article/Browser_(V)/assets/portrait10_preview.jpeg",
+               "url" : "article/Browser_(V)/portrait10.html"
+            },
+            {
+               "contents" : [
+                  {
+                     "href" : "#TMO-battle_opdracht_3",
+                     "pageRef" : "11"
+                  }
+               ],
+               "id" : "11",
+               "pagePosition" : "RIGHTOFSPINE",
+               "preview1024" : "article/Browser_(V)/assets/portrait11_preview.jpeg",
+               "properties" : {
+                  "height" : "1280",
+                  "width" : "800"
+               },
+               "spreadId" : "6",
+               "thumbnail" : "article/Browser_(V)/assets/portrait11_preview.jpeg",
+               "url" : "article/Browser_(V)/portrait11.html"
+            },
+            {
+               "contents" : [
+                  {
+                     "href" : "#TMO-battle_opdracht_3",
+                     "pageRef" : "12"
+                  }
+               ],
+               "id" : "12",
+               "pagePosition" : "LEFTOFSPINE",
+               "preview1024" : "article/Browser_(V)/assets/portrait12_preview.jpeg",
+               "properties" : {
+                  "height" : "1280",
+                  "width" : "800"
+               },
+               "spreadId" : "7",
+               "thumbnail" : "article/Browser_(V)/assets/portrait12_preview.jpeg",
+               "url" : "article/Browser_(V)/portrait12.html"
+            },
+            {
+               "contents" : [
+                  {
+                     "href" : "#TMO-battle_opdracht_3",
+                     "pageRef" : "13"
+                  }
+               ],
+               "id" : "13",
+               "pagePosition" : "RIGHTOFSPINE",
+               "preview1024" : "article/Browser_(V)/assets/portrait13_preview.jpeg",
+               "properties" : {
+                  "height" : "1280",
+                  "width" : "800"
+               },
+               "spreadId" : "7",
+               "thumbnail" : "article/Browser_(V)/assets/portrait13_preview.jpeg",
+               "url" : "article/Browser_(V)/portrait13.html"
+            },
+            {
+               "contents" : [
+                  {
+                     "href" : "#TMO-battle_opdracht_3",
+                     "pageRef" : "14"
+                  }
+               ],
+               "id" : "14",
+               "pagePosition" : "LEFTOFSPINE",
+               "preview1024" : "article/Browser_(V)/assets/portrait14_preview.jpeg",
+               "properties" : {
+                  "height" : "1280",
+                  "width" : "800"
+               },
+               "spreadId" : "8",
+               "thumbnail" : "article/Browser_(V)/assets/portrait14_preview.jpeg",
+               "url" : "article/Browser_(V)/portrait14.html"
+            }
+         ],
+         "width" : "800"
+      }
+   ]
+}
