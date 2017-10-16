@@ -1,20 +1,44 @@
 
 @font-face{
-    font-family:'Helvetica';
-    src:url('../assets/fonts/Helvetica.ttf');
+    font-family:'Menlo Bold';
+    src:url('../assets/fonts/Menlo-Bold.ttc');
+    font-weight:normal;
+    font-style:normal;
+}
+@font-face{
+    font-family:'Avenir Next Regular';
+    src:url('../assets/fonts/AvenirNext-Regular.ttc');
+    font-weight:normal;
+    font-style:normal;
+}
+@font-face{
+    font-family:'Avenir Next Heavy';
+    src:url('../assets/fonts/AvenirNext-Heavy.ttc');
     font-weight:normal;
     font-style:normal;
 }
 @font-face{
     font-family:'Helvetica';
-    src:url('../assets/fonts/Helvetica-Oblique.ttf');
+    src:url('../assets/fonts/Helvetica-Bold.ttf');
+    font-weight:bold;
+    font-style:normal;
+}
+@font-face{
+    font-family:'Avenir Next Regular';
+    src:url('../assets/fonts/AvenirNext-Bold.ttc');
+    font-weight:bold;
+    font-style:normal;
+}
+@font-face{
+    font-family:'Helvetica Neue Bold';
+    src:url('../assets/fonts/HelveticaNeue-Bold.ttf');
     font-weight:normal;
-    font-style:italic;
+    font-style:normal;
 }
 @font-face{
     font-family:'Helvetica';
-    src:url('../assets/fonts/Helvetica-Bold.ttf');
-    font-weight:bold;
+    src:url('../assets/fonts/Helvetica.ttf');
+    font-weight:normal;
     font-style:normal;
 }
 @font-face{
@@ -30,16 +54,16 @@
     font-style:italic;
 }
 @font-face{
-    font-family:'Avenir Next Regular';
-    src:url('../assets/fonts/AvenirNext-Regular.ttc');
+    font-family:'Avenir Black Oblique';
+    src:url('../assets/fonts/Avenir-BlackOblique.ttc');
     font-weight:normal;
     font-style:normal;
 }
 @font-face{
-    font-family:'Avenir Next Heavy';
-    src:url('../assets/fonts/AvenirNext-Heavy.ttc');
+    font-family:'Helvetica';
+    src:url('../assets/fonts/Helvetica-Oblique.ttf');
     font-weight:normal;
-    font-style:normal;
+    font-style:italic;
 }
 
 .qxpASDImage{
@@ -115,6 +139,34 @@
     font-feature-settings: "liga" 0;
     -webkit-font-variant-ligatures:no-common-ligatures;
     color:#212021;
+    position:absolute;
+    left:0px;
+    top:0px;
+}
+.char-Normal-Local-42 {
+    font-family:'Futura Book','Futura-Book';
+    font-size:360px;
+    text-decoration:none;
+    font-kerning:Normal;
+    -webkit-font-kerning:Normal;
+    -webkit-font-feature-settings: "liga" 0;
+    font-feature-settings: "liga" 0;
+    -webkit-font-variant-ligatures:no-common-ligatures;
+    color:#EB002A;
+    position:absolute;
+    left:0px;
+    top:0px;
+}
+.char-Normal-Local-43 {
+    font-family:'Helvetica','Arial','sans-serif';
+    font-size:280px;
+    text-decoration:none;
+    font-kerning:Normal;
+    -webkit-font-kerning:Normal;
+    -webkit-font-feature-settings: "liga" 0;
+    font-feature-settings: "liga" 0;
+    -webkit-font-variant-ligatures:no-common-ligatures;
+    color:white;
     position:absolute;
     left:0px;
     top:0px;
@@ -409,6 +461,134 @@
     -webkit-font-variant-ligatures:no-common-ligatures;
     color:#212021;
     letter-spacing:-0.001em;
+    position:absolute;
+    left:0px;
+    top:0px;
+}
+.char-Normal-Local-28 {
+    font-family:'Menlo-Bold','Menlo Bold','Menlo';
+    font-size:880px;
+    text-decoration:none;
+    font-kerning:Normal;
+    -webkit-font-kerning:Normal;
+    -webkit-font-feature-settings: "liga" 0;
+    font-feature-settings: "liga" 0;
+    -webkit-font-variant-ligatures:no-common-ligatures;
+    color:#FFFEDE;
+    position:absolute;
+    left:0px;
+    top:0px;
+}
+.char-Normal-Local-30 {
+    font-family:'Helvetica Neue Bold','HelveticaNeue-Bold','Helvetica Neue';
+    font-size:240px;
+    text-decoration:none;
+    font-kerning:Normal;
+    -webkit-font-kerning:Normal;
+    -webkit-font-feature-settings: "liga" 0;
+    font-feature-settings: "liga" 0;
+    -webkit-font-variant-ligatures:no-common-ligatures;
+    color:white;
+    position:absolute;
+    left:0px;
+    top:0px;
+}
+.char-Normal-Local-33 {
+    font-family:'Helvetica','Arial','sans-serif';
+    font-size:240px;
+    text-decoration:none;
+    font-kerning:Normal;
+    -webkit-font-kerning:Normal;
+    -webkit-font-feature-settings: "liga" 0;
+    font-feature-settings: "liga" 0;
+    -webkit-font-variant-ligatures:no-common-ligatures;
+    color:#FFFECC;
+    position:absolute;
+    left:0px;
+    top:0px;
+}
+.char-Normal-Local-32 {
+    font-family:'AvenirNext-Regular','Avenir Next Regular','Avenir Next';
+    font-size:240px;
+    text-decoration:none;
+    font-kerning:Normal;
+    -webkit-font-kerning:Normal;
+    -webkit-font-feature-settings: "liga" 0;
+    font-feature-settings: "liga" 0;
+    -webkit-font-variant-ligatures:no-common-ligatures;
+    color:#FFFED9;
+    position:absolute;
+    left:0px;
+    top:0px;
+}
+.char-Normal-Local-29 {
+    font-family:'AvenirNext-Bold','Avenir Next Regular','Avenir Next';
+    font-size:240px;
+    font-weight:bold;
+    text-decoration:none;
+    font-kerning:Normal;
+    -webkit-font-kerning:Normal;
+    -webkit-font-feature-settings: "liga" 0;
+    font-feature-settings: "liga" 0;
+    -webkit-font-variant-ligatures:no-common-ligatures;
+    color:#FFFED9;
+    position:absolute;
+    left:0px;
+    top:0px;
+}
+.char-Normal-Local-37 {
+    font-family:'Helvetica','Helvetica-Bold','Arial','sans-serif';
+    font-size:480px;
+    font-weight:bold;
+    text-decoration:none;
+    font-kerning:Normal;
+    -webkit-font-kerning:Normal;
+    -webkit-font-feature-settings: "liga" 0;
+    font-feature-settings: "liga" 0;
+    -webkit-font-variant-ligatures:no-common-ligatures;
+    color:#212021;
+    position:absolute;
+    left:0px;
+    top:0px;
+}
+.char-Normal-Local-38 {
+    font-family:'AvenirNext-Regular','Avenir Next Regular','Avenir Next';
+    font-size:240px;
+    text-decoration:none;
+    font-kerning:Normal;
+    -webkit-font-kerning:Normal;
+    -webkit-font-feature-settings: "liga" 0;
+    font-feature-settings: "liga" 0;
+    -webkit-font-variant-ligatures:no-common-ligatures;
+    color:black;
+    position:absolute;
+    left:0px;
+    top:0px;
+}
+.char-Normal-Local-31 {
+    font-family:'Helvetica','Arial','sans-serif';
+    font-size:240px;
+    text-decoration:none;
+    font-kerning:Normal;
+    -webkit-font-kerning:Normal;
+    -webkit-font-feature-settings: "liga" 0;
+    font-feature-settings: "liga" 0;
+    -webkit-font-variant-ligatures:no-common-ligatures;
+    color:black;
+    position:absolute;
+    left:0px;
+    top:0px;
+}
+.char-Normal-Local-39 {
+    font-family:'Avenir-BlackOblique','Avenir Black Oblique';
+    font-size:360px;
+    text-decoration:none;
+    font-kerning:Normal;
+    -webkit-font-kerning:Normal;
+    -webkit-font-feature-settings: "liga" 0;
+    font-feature-settings: "liga" 0;
+    -webkit-font-variant-ligatures:no-common-ligatures;
+    color:black;
     position:absolute;
     left:0px;
     top:0px;

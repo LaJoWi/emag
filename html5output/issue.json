@@ -16,7 +16,7 @@
    ],
    "id" : "urn:uuid:quark:html5:Een_zoekttocht_door_de_jaren_heen:publication",
    "media" : null,
-   "publishedDate" : "2017-10-16T09:52:55Z",
+   "publishedDate" : "2017-10-16T11:28:13Z",
    "subtitle" : null,
    "title" : "Een zoekttocht door de jaren heen",
    "variants" : [
@@ -152,6 +152,86 @@
                },
                "thumbnail" : "article/html_(H)/assets/landscape8_preview.jpeg",
                "url" : "article/html_(H)/landscape8.html"
+            },
+            {
+               "contents" : [
+                  {
+                     "href" : "#Een_zoekttocht_door_de_jaren_heen",
+                     "pageRef" : "9"
+                  }
+               ],
+               "id" : "9",
+               "preview1024" : "article/html_(H)/assets/landscape9_preview.jpeg",
+               "properties" : {
+                  "height" : "768",
+                  "width" : "1024"
+               },
+               "thumbnail" : "article/html_(H)/assets/landscape9_preview.jpeg",
+               "url" : "article/html_(H)/landscape9.html"
+            },
+            {
+               "contents" : [
+                  {
+                     "href" : "#Een_zoekttocht_door_de_jaren_heen",
+                     "pageRef" : "10"
+                  }
+               ],
+               "id" : "10",
+               "preview1024" : "article/html_(H)/assets/landscape10_preview.jpeg",
+               "properties" : {
+                  "height" : "768",
+                  "width" : "1024"
+               },
+               "thumbnail" : "article/html_(H)/assets/landscape10_preview.jpeg",
+               "url" : "article/html_(H)/landscape10.html"
+            },
+            {
+               "contents" : [
+                  {
+                     "href" : "#Een_zoekttocht_door_de_jaren_heen",
+                     "pageRef" : "11"
+                  }
+               ],
+               "id" : "11",
+               "preview1024" : "article/html_(H)/assets/landscape11_preview.jpeg",
+               "properties" : {
+                  "height" : "768",
+                  "width" : "1024"
+               },
+               "thumbnail" : "article/html_(H)/assets/landscape11_preview.jpeg",
+               "url" : "article/html_(H)/landscape11.html"
+            },
+            {
+               "contents" : [
+                  {
+                     "href" : "#Een_zoekttocht_door_de_jaren_heen",
+                     "pageRef" : "12"
+                  }
+               ],
+               "id" : "12",
+               "preview1024" : "article/html_(H)/assets/landscape12_preview.jpeg",
+               "properties" : {
+                  "height" : "768",
+                  "width" : "1024"
+               },
+               "thumbnail" : "article/html_(H)/assets/landscape12_preview.jpeg",
+               "url" : "article/html_(H)/landscape12.html"
+            },
+            {
+               "contents" : [
+                  {
+                     "href" : "#Een_zoekttocht_door_de_jaren_heen",
+                     "pageRef" : "13"
+                  }
+               ],
+               "id" : "13",
+               "preview1024" : "article/html_(H)/assets/landscape13_preview.jpeg",
+               "properties" : {
+                  "height" : "768",
+                  "width" : "1024"
+               },
+               "thumbnail" : "article/html_(H)/assets/landscape13_preview.jpeg",
+               "url" : "article/html_(H)/landscape13.html"
             }
          ],
          "width" : "1024"
