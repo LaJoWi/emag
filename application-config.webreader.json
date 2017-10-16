@@ -7,9 +7,9 @@
          "bundle" : "html5output/",
          "bundleSize" : 1,
          "description" : "",
-         "id" : "urn:uuid:quark:html5:TMO-battle_opdracht_3:publication",
+         "id" : "urn:uuid:quark:html5:Een_zoekttocht_door_de_jaren_heen:publication",
          "isFree" : true,
-         "lastPublishedDate" : "2017-10-12T14:11:22Z",
+         "lastPublishedDate" : "2017-10-16T09:39:12Z",
          "media:content" : [ "", "" ],
          "media:thumbnail" : [ "" ],
          "minimumAppVersion" : "1.0.0",
@@ -22,7 +22,7 @@
             "pt_384" : "",
             "pt_768" : ""
          },
-         "publishedDate" : "2017-10-12T14:11:22Z",
+         "publishedDate" : "2017-10-16T09:39:12Z",
          "subtitle" : "",
          "tabletIssuePath" : "",
          "thumbnails" : {
@@ -42,10 +42,10 @@
             "pt_477" : "",
             "pt_954" : ""
          },
-         "title" : "TMO-battle opdracht 3"
+         "title" : "Een zoekttocht door de jaren heen"
       }
    ],
    "name" : "user",
-   "published" : "2017-10-12T14:11:22Z",
+   "published" : "2017-10-16T09:39:12Z",
    "version" : "0.5"
 }

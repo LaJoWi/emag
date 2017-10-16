@@ -20,13 +20,13 @@
       "loading" : {
          "backgroundColor" : "#000000",
          "color" : "#000000",
-         "image" : "AMKLogo.jpg"
+         "image" : "Loading.psd"
       },
       "mobileOnly" : false,
       "params" : {
          "loglevel" : -1
       },
-      "title" : "Test E-mag"
+      "title" : "Een zoekttocht door de jaren heen"
    },
    "extensions" : {
       "all" : [ "webreader/ext/googlemaps.js" ],
@@ -69,7 +69,7 @@
          "mobile" : "both"
       },
       "summary" : "Pub description/summary goes here",
-      "title" : "TMO-battle opdracht 3",
+      "title" : "Een zoekttocht door de jaren heen",
       "urlRoot" : "./"
    },
    "scrubber" : {
