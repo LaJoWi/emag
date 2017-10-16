@@ -9,7 +9,7 @@
          "description" : "",
          "id" : "urn:uuid:quark:html5:Een_zoekttocht_door_de_jaren_heen:publication",
          "isFree" : true,
-         "lastPublishedDate" : "2017-10-16T11:59:10Z",
+         "lastPublishedDate" : "2017-10-16T12:15:08Z",
          "media:content" : [ "", "" ],
          "media:thumbnail" : [ "" ],
          "minimumAppVersion" : "1.0.0",
@@ -22,7 +22,7 @@
             "pt_384" : "",
             "pt_768" : ""
          },
-         "publishedDate" : "2017-10-16T11:59:10Z",
+         "publishedDate" : "2017-10-16T12:15:08Z",
          "subtitle" : "",
          "tabletIssuePath" : "",
          "thumbnails" : {
@@ -46,6 +46,6 @@
       }
    ],
    "name" : "user",
-   "published" : "2017-10-16T11:59:10Z",
+   "published" : "2017-10-16T12:15:08Z",
    "version" : "0.5"
 }

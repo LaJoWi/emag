@@ -6,38 +6,20 @@
     font-style:italic;
 }
 @font-face{
-    font-family:'Helvetica';
-    src:url('../assets/fonts/Helvetica.ttf');
-    font-weight:normal;
+    font-family:'Avenir Next Regular';
+    src:url('../assets/fonts/AvenirNext-Bold.ttc');
+    font-weight:bold;
     font-style:normal;
 }
 @font-face{
-    font-family:'Avenir Next Heavy';
-    src:url('../assets/fonts/AvenirNext-Heavy.ttc');
-    font-weight:normal;
+    font-family:'Helvetica';
+    src:url('../assets/fonts/Helvetica-Bold.ttf');
+    font-weight:bold;
     font-style:normal;
 }
 @font-face{
     font-family:'Futura Std Book';
     src:url('../assets/fonts/FuturaStd-Book.otf');
-    font-weight:normal;
-    font-style:normal;
-}
-@font-face{
-    font-family:'Avenir Black Oblique';
-    src:url('../assets/fonts/Avenir-BlackOblique.ttc');
-    font-weight:normal;
-    font-style:normal;
-}
-@font-face{
-    font-family:'Futura Std Extra Bold';
-    src:url('../assets/fonts/FuturaStd-ExtraBold.otf');
-    font-weight:normal;
-    font-style:normal;
-}
-@font-face{
-    font-family:'Helvetica Neue Bold';
-    src:url('../assets/fonts/HelveticaNeue-Bold.ttf');
     font-weight:normal;
     font-style:normal;
 }
@@ -48,9 +30,57 @@
     font-style:italic;
 }
 @font-face{
-    font-family:'Avenir Next Regular';
-    src:url('../assets/fonts/AvenirNext-Bold.ttc');
-    font-weight:bold;
+    font-family:'Avenir Next Heavy';
+    src:url('../assets/fonts/AvenirNext-Heavy.ttc');
+    font-weight:normal;
+    font-style:normal;
+}
+@font-face{
+    font-family:'Peignot LT Std Bold';
+    src:url('../assets/fonts/PeignotLTStd-Bold.otf');
+    font-weight:normal;
+    font-style:normal;
+}
+@font-face{
+    font-family:'Helvetica Neue Bold';
+    src:url('../assets/fonts/HelveticaNeue-Bold.ttf');
+    font-weight:normal;
+    font-style:normal;
+}
+@font-face{
+    font-family:'Futura Std Extra Bold';
+    src:url('../assets/fonts/FuturaStd-ExtraBold.otf');
+    font-weight:normal;
+    font-style:normal;
+}
+@font-face{
+    font-family:'Avenir Black Oblique';
+    src:url('../assets/fonts/Avenir-BlackOblique.ttc');
+    font-weight:normal;
+    font-style:normal;
+}
+@font-face{
+    font-family:'Futura Book';
+    src:url('../assets/fonts/FuturaBook.ttf');
+    font-weight:normal;
+    font-style:normal;
+}
+@font-face{
+    font-family:'Helvetica';
+    src:url('../assets/fonts/Helvetica.ttf');
+    font-weight:normal;
+    font-style:normal;
+}
+@font-face{
+    font-family:'Peignot LT Std Demi';
+    src:url('../assets/fonts/PeignotLTStd-Demi.otf');
+    font-weight:normal;
+    font-style:normal;
+}
+@font-face{
+    font-family:'Menlo Bold';
+    src:url('../assets/fonts/Menlo-Bold.ttc');
+    font-weight:normal;
     font-style:normal;
 }
 @font-face{
@@ -65,42 +95,12 @@
     font-weight:normal;
     font-style:normal;
 }
-@font-face{
-    font-family:'Menlo Bold';
-    src:url('../assets/fonts/Menlo-Bold.ttc');
-    font-weight:normal;
-    font-style:normal;
-}
-@font-face{
-    font-family:'Peignot LT Std Demi';
-    src:url('../assets/fonts/PeignotLTStd-Demi.otf');
-    font-weight:normal;
-    font-style:normal;
-}
-@font-face{
-    font-family:'Peignot LT Std Bold';
-    src:url('../assets/fonts/PeignotLTStd-Bold.otf');
-    font-weight:normal;
-    font-style:normal;
-}
-@font-face{
-    font-family:'Futura Book';
-    src:url('../assets/fonts/FuturaBook.ttf');
-    font-weight:normal;
-    font-style:normal;
-}
-@font-face{
-    font-family:'Helvetica';
-    src:url('../assets/fonts/Helvetica-Bold.ttf');
-    font-weight:bold;
-    font-style:normal;
-}
 
 .qxpASDImage{
     position:absolute;
     top:0px;
     left:0px;
-}.char-Normal-Local-11 {
+}.char-Normal-Local-8 {
     font-family:'Helvetica','Helvetica-Bold','Arial','sans-serif';
     font-size:480px;
     font-weight:bold;
@@ -130,7 +130,7 @@
     left:0px;
     top:0px;
 }
-.char-Normal-Local-7 {
+.char-Normal-Local-9 {
     font-family:'Helvetica','Arial','sans-serif';
     font-size:240px;
     text-decoration:none;
@@ -144,7 +144,7 @@
     left:0px;
     top:0px;
 }
-.char-Normal-Local-26 {
+.char-Normal-Local-29 {
     font-family:'Helvetica','Arial','sans-serif';
     font-size:240px;
     text-decoration:none;
@@ -158,7 +158,7 @@
     left:0px;
     top:0px;
 }
-.char-Normal-Local-5 {
+.char-Normal-Local-7 {
     font-family:'Helvetica','Helvetica-Oblique','Arial','sans-serif';
     font-size:220px;
     font-style:italic;
@@ -201,10 +201,14 @@
     left:0px;
     top:0px;
 }
-.char-Normal-Local-42 {
+.char-Normal-Local-37 {
     font-family:'Futura Book','FuturaBook','Futura';
     font-size:280px;
     text-decoration:none;
+    transform-origin:left;
+    -webkit-transform-origin:left;
+    transform:scaleX(0.93);
+    -webkit-transform:scaleX(0.93);
     font-kerning:Normal;
     -webkit-font-kerning:Normal;
     -webkit-font-feature-settings: "liga" 0;
@@ -299,7 +303,7 @@
     left:0px;
     top:0px;
 }
-.char-Normal-Local-10 {
+.char-Normal-Local-6 {
     font-family:'Helvetica','Helvetica-Bold','Arial','sans-serif';
     font-size:240px;
     font-weight:bold;
@@ -314,7 +318,7 @@
     left:0px;
     top:0px;
 }
-.char-Normal-Local-9 {
+.char-Normal-Local-10 {
     font-family:'Helvetica','Helvetica-Bold','Arial','sans-serif';
     font-size:240px;
     font-weight:bold;
@@ -391,7 +395,7 @@
     left:0px;
     top:0px;
 }
-.char-Normal-Local-35 {
+.char-Normal-Local-46 {
     font-family:'Helvetica','Helvetica-Bold','Arial','sans-serif';
     font-size:240px;
     font-weight:bold;
@@ -434,7 +438,7 @@
     left:0px;
     top:0px;
 }
-.char-Normal-Local-29 {
+.char-Normal-Local-26 {
     font-family:'Helvetica','Arial','sans-serif';
     font-size:240px;
     text-decoration:none;
@@ -492,7 +496,7 @@
     left:0px;
     top:0px;
 }
-.char-Normal-Local-8 {
+.char-Normal-Local-5 {
     font-family:'Helvetica','Helvetica-Bold','Arial','sans-serif';
     font-size:240px;
     font-weight:bold;
@@ -536,7 +540,7 @@
     left:0px;
     top:0px;
 }
-.char-Normal-Local-32 {
+.char-Normal-Local-43 {
     font-family:'Helvetica','Arial','sans-serif';
     font-size:240px;
     text-decoration:none;
@@ -579,7 +583,7 @@
     left:0px;
     top:0px;
 }
-.char-Normal-Local-43 {
+.char-Normal-Local-32 {
     font-family:'Helvetica','Helvetica-Bold','Arial','sans-serif';
     font-size:480px;
     font-weight:bold;
@@ -608,7 +612,7 @@
     left:0px;
     top:0px;
 }
-.char-Normal-Local-6 {
+.char-Normal-Local-24 {
     font-family:'Helvetica','Arial','sans-serif';
     font-size:240px;
     text-decoration:none;
