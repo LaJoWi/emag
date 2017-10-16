@@ -1,0 +1,51 @@
+{
+   "appconfig" : {},
+   "duration" : "5",
+   "issues" : [
+      {
+         "appleId" : "",
+         "bundle" : "html5output/",
+         "bundleSize" : 1,
+         "description" : "",
+         "id" : "urn:uuid:quark:html5:Een_zoekttocht_door_de_jaren_heen:publication",
+         "isFree" : true,
+         "lastPublishedDate" : "2017-10-16T09:52:55Z",
+         "media:content" : [ "", "" ],
+         "media:thumbnail" : [ "" ],
+         "minimumAppVersion" : "1.0.0",
+         "previews" : {
+            "landscape" : "",
+            "ln_1024" : "",
+            "ln_512" : "",
+            "portrait" : "",
+            "pt_320" : "",
+            "pt_384" : "",
+            "pt_768" : ""
+         },
+         "publishedDate" : "2017-10-16T09:52:55Z",
+         "subtitle" : "",
+         "tabletIssuePath" : "",
+         "thumbnails" : {
+            "landscape" : "",
+            "ln_1292" : "",
+            "ln_225" : "",
+            "ln_310" : "",
+            "ln_450" : "",
+            "ln_620" : "",
+            "ln_646" : "",
+            "portrait" : "",
+            "pt_168" : "",
+            "pt_228" : "",
+            "pt_266" : "",
+            "pt_336" : "",
+            "pt_456" : "",
+            "pt_477" : "",
+            "pt_954" : ""
+         },
+         "title" : "Een zoekttocht door de jaren heen"
+      }
+   ],
+   "name" : "user",
+   "published" : "2017-10-16T09:52:55Z",
+   "version" : "0.5"
+}
